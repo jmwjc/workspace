@@ -34,9 +34,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0baa33f55d53676",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "17550b108aa8bcee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Workspace管理文档.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Obsidian 配置与使用.md",
+                "file": "Inbox/Workspace管理文档.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Obsidian 配置与使用.md"
+                "file": "Inbox/Workspace管理文档.md"
               }
             }
           },
@@ -208,12 +231,12 @@
       "cmdr:Git: Pull": false
     }
   },
-  "active": "3bc6413b7ac2dadb",
+  "active": "17550b108aa8bcee",
   "lastOpenFiles": [
     "Kanban.md",
     "Home.md",
-    "Group/吴俊超.md",
     "Inbox/Obsidian 配置与使用.md",
+    "Group/吴俊超.md",
     "Inbox/Workspace管理文档.md",
     "Inbox/feishu.cn.md",
     "Tasks/Inbox.md",
