@@ -21,8 +21,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "86ff01d6a0d43f12",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Kanban.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -194,12 +205,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b9be1df9280a39c9",
+  "active": "86ff01d6a0d43f12",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Home.md",
+    "Inbox/Marp教程.md",
+    "Attachments/themes/olive.css",
+    "Attachments/themes/minimal-turquoise.css",
+    "Attachments/themes/minimal-container-turquoise.css",
+    "Attachments/themes/iggg.css",
+    "Attachments/themes/haskell.css",
+    "Attachments/themes/gradient.css",
+    "Attachments/themes/github.css",
+    "Attachments/themes/dracula.css",
+    "Attachments/themes/colors.css",
+    "Attachments/themes/color-head.css",
     "Inbox/Workspace管理文档.md",
     "Group/吴俊超.md",
     "Kanban.md",
-    "Home.md",
     "Inbox/Obsidian 配置与使用.md",
     "Inbox/feishu.cn.md",
     "Tasks/Inbox.md",
@@ -209,29 +232,17 @@
     "Templates/Wiki.md",
     "Attachments/Workspace管理文档 2024-05-13 13.18.01.excalidraw.md",
     "Inbox/Attachments/Workspace管理文档 2024-05-13 13.18.01.excalidraw.md",
-    "Inbox/Attachments",
     "Inbox/Attachments/Workspace管理文档 2024-05-13 13.12.26.excalidraw.md",
     "Attachments/scripts/tp-report.md",
     "Templates/Test.md",
     "Templates/tp-test.md",
-    "Attachments/scripts",
     "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-25.md",
     "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-28.md",
     "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-27.md",
-    "Inbox",
     "Templates/tp-report.md",
     "Workspace管理文档.md",
     "Tasks/2024-20.md",
     "Group/Group.md",
-    "Plans/2024-19.md",
-    "Plans/Plans.md",
-    "Attachments/fonts/LingWaiSCMedium.otf",
-    "Attachments/Scripts/Downloaded/Mindmap format.svg",
-    "Attachments/Scripts/Downloaded",
-    "Attachments/fonts",
-    "Attachments/Scripts",
-    "Tags",
-    "Tests",
-    "Tasks"
+    "Attachments/Scripts/Downloaded/Mindmap format.svg"
   ]
 }
