@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxSlideshow",
       "LiHome",
       "TiHelp",
       "OcTasklist16",
-      "BoBxTask",
-      "OcInfinity16"
+      "BoBxTask"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,5 +61,8 @@
   "Inbox/Obsidian 配置与使用.md": {
     "iconName": "TiHelp"
   },
-  "Home.md": "LiHome"
+  "Home.md": "LiHome",
+  "Inbox/Marp教程.md": {
+    "iconName": "BoBxSlideshow"
+  }
 }
