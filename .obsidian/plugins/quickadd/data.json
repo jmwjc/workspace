@@ -3,7 +3,7 @@
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "Attachments/scripts",
+  "templateFolderPath": "",
   "announceUpdates": true,
   "version": "0.14.0",
   "disableOnlineFeatures": true,
@@ -55,7 +55,7 @@
     "useQuickAddTemplateFolder": true,
     "incrementFileNameSettingMoveToDefaultBehavior": true,
     "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
-    "setVersionAfterUpdateModalRelease": true,
+    "setVersionAfterUpdateModalRelease": false,
     "addDefaultAIProviders": false
   }
 }
