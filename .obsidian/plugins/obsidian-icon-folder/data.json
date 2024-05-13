@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OcInfinity16",
+      "OcInfinity24",
       "LiInfinity",
       "TiHelp",
-      "BoBxSlideshow",
-      "TiReportAnalytics",
-      "LiSquareKanban"
+      "BoBxSlideshow"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,6 +53,6 @@
     "iconName": "TiHelp"
   },
   "Templates/Wiki.md": {
-    "iconName": "LiInfinity"
+    "iconName": "OcInfinity16"
   }
 }

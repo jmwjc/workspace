@@ -18,8 +18,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "5fc76d8fffe629af",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,15 +182,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d130e76109753ea5",
+  "active": "5fc76d8fffe629af",
   "lastOpenFiles": [
     "Group/吴俊超.md",
-    "Templates/Tutorial.md",
-    "Templates/Slide.md",
-    "Templates/Report.md",
-    "Kanban.md",
     "Inbox/Workspace管理文档.md",
+    "Templates/Report.md",
+    "Templates/Slide.md",
+    "Templates/Tutorial.md",
     "Templates/Wiki.md",
+    "Tasks/Inbox.md",
+    "Kanban.md",
     "Templates/tp-test.md",
     "Attachments/scripts/tp-report.md",
     "Attachments/scripts",
@@ -191,7 +203,6 @@
     "Templates/tp-report.md",
     "Workspace管理文档.md",
     "Tasks/2024-20.md",
-    "Tasks/Inbox.md",
     "Group/Group.md",
     "Attachments/Drawing 2024-05-08 18.18.24.excalidraw.md",
     "Plans/2024-19.md",

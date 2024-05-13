@@ -1,3 +1,3 @@
 ---
-icon: LiInfinity
+icon: OcInfinity16
 ---
