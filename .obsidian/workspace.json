@@ -8,24 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d130e76109753ea5",
+            "id": "bef77fa47bc368d2",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "5fc76d8fffe629af",
+            "id": "39f98cc22a520897",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "Inbox/Obsidian 配置与使用.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -42,7 +48,7 @@
       {
         "id": "da6a24828df24e24",
         "type": "tabs",
-        "dimension": 59.13853317811409,
+        "dimension": 36.60777385159011,
         "children": [
           {
             "id": "6a599cf454d184e6",
@@ -60,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Group",
+                "query": "tag:#Tutorial/Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +80,7 @@
       {
         "id": "8a48caa7906c0773",
         "type": "tabs",
-        "dimension": 40.86146682188591,
+        "dimension": 63.39222614840989,
         "children": [
           {
             "id": "f8f984df570b04bc",
@@ -82,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kanban.md",
+                "file": "Inbox/Obsidian 配置与使用.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,12 +106,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9955284737421618,
+                  "scale": 1,
                   "close": true
                 }
               }
@@ -122,8 +128,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,6 +141,7 @@
       {
         "id": "9ec09086885b4cff",
         "type": "tabs",
+        "dimension": 35.47703180212014,
         "children": [
           {
             "id": "b3edd1dbe0987ff5",
@@ -143,10 +149,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Inbox/Obsidian 配置与使用.md"
               }
             }
           },
+          {
+            "id": "89c8e59463a81594",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7fcded6df7eda13f",
+        "type": "tabs",
+        "dimension": 64.52296819787986,
+        "children": [
           {
             "id": "18c54f1e19bf1378",
             "type": "leaf",
@@ -164,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,29 +195,40 @@
   "left-ribbon": {
     "hiddenItems": {
       "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
-      "marp-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "homepage:Open homepage": false,
+      "cmdr:Templater: Create new note from template": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false,
+      "univer:Univer": false,
+      "marp-slides:Show Slide Preview": false,
+      "cmdr:Git: Push": false,
+      "cmdr:Git: Commit all changes": false,
+      "cmdr:Git: Pull": false
     }
   },
-  "active": "5fc76d8fffe629af",
+  "active": "39f98cc22a520897",
   "lastOpenFiles": [
-    "Group/吴俊超.md",
     "Inbox/Workspace管理文档.md",
-    "Templates/Report.md",
-    "Templates/Slide.md",
-    "Templates/Tutorial.md",
-    "Templates/Wiki.md",
-    "Tasks/Inbox.md",
-    "Kanban.md",
-    "Templates/tp-test.md",
-    "Attachments/scripts/tp-report.md",
-    "Attachments/scripts",
+    "Inbox/Obsidian 配置与使用.md",
+    "Group/吴俊超.md",
     "Home.md",
+    "Kanban.md",
+    "Tasks/Inbox.md",
+    "Templates/Tutorial.md",
+    "Inbox/github.com.md",
+    "Templates/Slide.md",
+    "Templates/Wiki.md",
+    "Attachments/Workspace管理文档 2024-05-13 13.18.01.excalidraw.md",
+    "Inbox/Attachments/Workspace管理文档 2024-05-13 13.18.01.excalidraw.md",
+    "Inbox/Attachments",
+    "Inbox/Attachments/Workspace管理文档 2024-05-13 13.12.26.excalidraw.md",
+    "Attachments/scripts/tp-report.md",
+    "Templates/Test.md",
+    "Templates/tp-test.md",
+    "Attachments/scripts",
     "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-25.md",
     "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-28.md",
     "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-27.md",
@@ -204,14 +237,9 @@
     "Workspace管理文档.md",
     "Tasks/2024-20.md",
     "Group/Group.md",
-    "Attachments/Drawing 2024-05-08 18.18.24.excalidraw.md",
     "Plans/2024-19.md",
     "Plans/Plans.md",
     "References/References.md",
-    "Tags/Tags.md",
-    "Templates/Templates.md",
-    "Tests/Tests.md",
-    "Wiki/Wiki.md",
     "Attachments/fonts/LingWaiSCMedium.otf",
     "Attachments/Scripts/Downloaded/Mindmap format.svg",
     "Attachments/Scripts/Downloaded",
@@ -219,7 +247,6 @@
     "Attachments/Scripts",
     "Tags",
     "Tests",
-    "Tasks",
-    "Group"
+    "Tasks"
   ]
 }

@@ -4,15 +4,14 @@ kanban-plugin: basic
 
 ---
 
-## Todo List
+## 测试
 
-- [ ] ```tasks<br>tags include #TODO <br>```
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","new-card-insertion-method":"prepend-compact"}
 ```
 %%

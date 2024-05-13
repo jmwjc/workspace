@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "OcInfinity16",
-      "OcInfinity24",
-      "LiInfinity",
+      "LiHome",
       "TiHelp",
-      "BoBxSlideshow"
+      "OcTasklist16",
+      "BoBxTask",
+      "OcInfinity16"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,7 @@
   },
   "Group": "OcPeople16",
   "Inbox": "LiInbox",
-  "Tasks": "OcTasklist16",
+  "Tasks": "BoBxTask",
   "Templates": "LiClipboardPaste",
   "Group/吴俊超.md": {
     "iconName": "OcPerson16"
@@ -43,9 +43,6 @@
     "iconName": "OcGear16"
   },
   "Kanban.md": "LiSquareKanban",
-  "Templates/Report.md": {
-    "iconName": "TiReportAnalytics"
-  },
   "Templates/Slide.md": {
     "iconName": "BoBxSlideshow"
   },
@@ -54,5 +51,15 @@
   },
   "Templates/Wiki.md": {
     "iconName": "OcInfinity16"
-  }
+  },
+  "Tasks/Inbox.md": {
+    "iconName": "OcTasklist16"
+  },
+  "Templates/Test.md": {
+    "iconName": "TiReportAnalytics"
+  },
+  "Inbox/Obsidian 配置与使用.md": {
+    "iconName": "TiHelp"
+  },
+  "Home.md": "LiHome"
 }

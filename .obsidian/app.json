@@ -6,9 +6,11 @@
   "attachmentFolderPath": "./Attachments",
   "userIgnoreFilters": [
     "Templates/",
-    "Attachments/",
-    "Tasks/"
+    "Tasks/",
+    "Attachments/"
   ],
   "showInlineTitle": false,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }

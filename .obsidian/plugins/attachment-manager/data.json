@@ -6,5 +6,5 @@
   "aeroFolder": true,
   "autoRenameFolder": false,
   "autoRenameFiles": true,
-  "autoDeleteFolder": false
+  "autoDeleteFolder": true
 }
