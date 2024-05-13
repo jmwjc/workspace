@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3bc6413b7ac2dadb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Obsidian 配置与使用.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Obsidian 配置与使用.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -111,7 +97,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224427,
+                  "scale": 1,
                   "close": true
                 }
               }
@@ -149,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Obsidian 配置与使用.md"
+                "file": "Home.md"
               }
             }
           },
@@ -193,59 +179,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
+      "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
       "homepage:Open homepage": false,
       "cmdr:Templater: Create new note from template": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
       "graph:查看关系图谱": false,
-      "marp-slides:Show Slide Preview": false,
-      "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
       "univer:Univer": false,
+      "marp-slides:Show Slide Preview": false,
       "cmdr:Git: Push": false,
       "cmdr:Git: Commit all changes": false,
       "cmdr:Git: Pull": false
     }
   },
-  "active": "3bc6413b7ac2dadb",
+  "active": "bef77fa47bc368d2",
   "lastOpenFiles": [
-    "Kanban.md",
-    "Home.md",
-    "Group/吴俊超.md",
-    "Inbox/Obsidian 配置与使用.md",
+    "Inbox/Marp教程.md",
     "Inbox/Workspace管理文档.md",
-    "Inbox/feishu.cn.md",
-    "Tasks/Inbox.md",
+    "Inbox/Obsidian 配置与使用.md",
+    "Attachments/Marp教程2024-05-1318.08.15.excalidraw.md",
+    "Attachments/Workspace管理文档 2024-05-13 13.18.01.excalidraw.md",
+    "Inbox/Attachments",
+    "Kanban.md",
     "Templates/Tutorial.md",
+    "Home.md",
+    "Inbox/➤ 汇报模版.md",
+    "Attachments/themes/olive.css",
+    "Attachments/themes/minimal-turquoise.css",
+    "Attachments/themes/minimal-container-turquoise.css",
+    "Attachments/themes/iggg.css",
+    "Attachments/themes/haskell.css",
+    "Attachments/themes/gradient.css",
+    "Attachments/themes/github.css",
+    "Attachments/themes/dracula.css",
+    "Attachments/themes/colors.css",
+    "Inbox/汇报模版.md",
+    "Group/吴俊超.md",
+    "Tasks/Inbox.md",
     "Inbox/github.com.md",
     "Templates/Slide.md",
     "Templates/Wiki.md",
-    "Attachments/Workspace管理文档 2024-05-13 13.18.01.excalidraw.md",
     "Inbox/Attachments/Workspace管理文档 2024-05-13 13.18.01.excalidraw.md",
-    "Inbox/Attachments",
     "Inbox/Attachments/Workspace管理文档 2024-05-13 13.12.26.excalidraw.md",
     "Attachments/scripts/tp-report.md",
     "Templates/Test.md",
     "Templates/tp-test.md",
-    "Attachments/scripts",
     "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-25.md",
     "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-28.md",
     "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-27.md",
-    "Inbox",
     "Templates/tp-report.md",
     "Workspace管理文档.md",
     "Tasks/2024-20.md",
-    "Group/Group.md",
-    "Plans/2024-19.md",
-    "Plans/Plans.md",
-    "Attachments/fonts/LingWaiSCMedium.otf",
-    "Attachments/Scripts/Downloaded/Mindmap format.svg",
-    "Attachments/Scripts/Downloaded",
-    "Attachments/fonts",
-    "Attachments/Scripts",
-    "Tags",
-    "Tests",
-    "Tasks"
+    "Attachments/Scripts/Downloaded/Mindmap format.svg"
   ]
 }
