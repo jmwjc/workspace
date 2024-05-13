@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "eb5c561b42ff749c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e69f0fe6e1f8a750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d130e76109753ea5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e361fd6b963dbf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "da6a24828df24e24",
+        "type": "tabs",
+        "dimension": 59.13853317811409,
+        "children": [
+          {
+            "id": "6a599cf454d184e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad559b25255a48ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Group",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8a48caa7906c0773",
+        "type": "tabs",
+        "dimension": 40.86146682188591,
+        "children": [
+          {
+            "id": "f8f984df570b04bc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Kanban.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9955284737421618,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "009ca2a12b74ffa7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c33f8794d1bb0555",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec09086885b4cff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3edd1dbe0987ff5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "18c54f1e19bf1378",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0da4fe986980664b",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
+      "marp-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "homepage:Open homepage": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d130e76109753ea5",
+  "lastOpenFiles": [
+    "Group/吴俊超.md",
+    "Templates/Tutorial.md",
+    "Templates/Slide.md",
+    "Templates/Report.md",
+    "Kanban.md",
+    "Inbox/Workspace管理文档.md",
+    "Templates/Wiki.md",
+    "Templates/tp-test.md",
+    "Attachments/scripts/tp-report.md",
+    "Attachments/scripts",
+    "Home.md",
+    "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-25.md",
+    "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-28.md",
+    "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-27.md",
+    "Inbox",
+    "Templates/tp-report.md",
+    "Workspace管理文档.md",
+    "Tasks/2024-20.md",
+    "Tasks/Inbox.md",
+    "Group/Group.md",
+    "Attachments/Drawing 2024-05-08 18.18.24.excalidraw.md",
+    "Plans/2024-19.md",
+    "Plans/Plans.md",
+    "References/References.md",
+    "Tags/Tags.md",
+    "Templates/Templates.md",
+    "Tests/Tests.md",
+    "Wiki/Wiki.md",
+    "Attachments/fonts/LingWaiSCMedium.otf",
+    "Attachments/Scripts/Downloaded/Mindmap format.svg",
+    "Attachments/Scripts/Downloaded",
+    "Attachments/fonts",
+    "Attachments/Scripts",
+    "Tags",
+    "Tests",
+    "Tasks",
+    "Group"
+  ]
+}

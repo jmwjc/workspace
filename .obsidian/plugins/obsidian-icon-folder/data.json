@@ -1,0 +1,58 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiInfinity",
+      "TiHelp",
+      "BoBxSlideshow",
+      "TiReportAnalytics",
+      "LiSquareKanban"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Group": "OcPeople16",
+  "Inbox": "LiInbox",
+  "Tasks": "OcTasklist16",
+  "Templates": "LiClipboardPaste",
+  "Group/吴俊超.md": {
+    "iconName": "OcPerson16"
+  },
+  "Inbox/Workspace管理文档.md": {
+    "iconName": "OcGear16"
+  },
+  "Kanban.md": "LiSquareKanban",
+  "Templates/Report.md": {
+    "iconName": "TiReportAnalytics"
+  },
+  "Templates/Slide.md": {
+    "iconName": "BoBxSlideshow"
+  },
+  "Templates/Tutorial.md": {
+    "iconName": "TiHelp"
+  },
+  "Templates/Wiki.md": {
+    "iconName": "LiInfinity"
+  }
+}
