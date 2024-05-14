@@ -1,0 +1,58 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "templater-obsidian:create-new-note-from-template",
+      "icon": "lucide-pencil",
+      "name": "Templater: Create new note from template",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:commit",
+      "icon": "check",
+      "name": "Git: Commit all changes",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:pull",
+      "icon": "download-cloud",
+      "name": "Git: Pull",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "icon": "upload-cloud",
+      "name": "Git: Push",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "打开快速切换",
+      "打开命令面板",
+      "切换附件文件夹的“显示/隐藏”"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

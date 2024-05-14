@@ -1,0 +1,16 @@
+{
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "attachmentFolderPath": "./Attachments",
+  "userIgnoreFilters": [
+    "Templates/",
+    "Tasks/",
+    "Attachments/"
+  ],
+  "showInlineTitle": true,
+  "propertiesInDocument": "visible",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
+}

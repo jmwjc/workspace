@@ -1,0 +1,10 @@
+{
+  "folderName": "Attachments",
+  "pastedImageName": "${notename}-${datetime}",
+  "datetimeFormat": "YYYY-MM-DD",
+  "hideFolder": true,
+  "aeroFolder": true,
+  "autoRenameFolder": false,
+  "autoRenameFiles": true,
+  "autoDeleteFolder": true
+}
