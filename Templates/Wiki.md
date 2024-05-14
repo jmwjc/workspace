@@ -1,3 +1,0 @@
----
-icon: OcInfinity16
----
