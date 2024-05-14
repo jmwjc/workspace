@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ec87450c96fb2a7b",
+        "id": "a317312ac49cff35",
         "type": "tabs",
         "children": [
           {
-            "id": "8dfbf1383ea5436b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "017b7b5e8a440c2c",
+            "id": "e2c0f8d0a123a1e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Nonlinear Elasticity.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,10 +27,10 @@
       {
         "id": "da6a24828df24e24",
         "type": "tabs",
-        "dimension": 36.60777385159011,
+        "dimension": 59.13853317811408,
         "children": [
           {
-            "id": "cb9dfcc2f19dbf5e",
+            "id": "6a599cf454d184e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,22 +45,29 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Math",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "fb4f75c745da9856",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8a48caa7906c0773",
         "type": "tabs",
-        "dimension": 63.39222614840989,
+        "dimension": 40.86146682188591,
         "children": [
           {
             "id": "f8f984df570b04bc",
@@ -89,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Nonlinear Elasticity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +97,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6252124604911651,
+                  "scale": 0.6044402177207013,
                   "close": true
                 }
               }
@@ -133,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 300
   },
   "right": {
     "id": "c33f8794d1bb0555",
@@ -142,52 +127,16 @@
       {
         "id": "9ec09086885b4cff",
         "type": "tabs",
-        "dimension": 35.47703180212014,
         "children": [
           {
             "id": "b3edd1dbe0987ff5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/Nonlinear Elasticity.md"
-              }
-            }
-          },
-          {
-            "id": "89c8e59463a81594",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7fcded6df7eda13f",
-        "type": "tabs",
-        "dimension": 64.52296819787986,
-        "children": [
-          {
-            "id": "18c54f1e19bf1378",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "0da4fe986980664b",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,50 +144,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
-      "homepage:Open homepage": false,
-      "cmdr:Templater: Create new note from template": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "switcher:打开快速切换": false,
-      "canvas:新建白板": false,
-      "command-palette:打开命令面板": false,
-      "graph:查看关系图谱": false,
-      "univer:Univer": false,
-      "marp-slides:Show Slide Preview": false,
-      "cmdr:Git: Push": false,
-      "cmdr:Git: Commit all changes": false,
-      "cmdr:Git: Pull": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "017b7b5e8a440c2c",
+  "active": "e2c0f8d0a123a1e0",
   "lastOpenFiles": [
-    "Inbox/Shell formulation.md",
-    "Inbox/Curvilinear Coordinates.md",
-    "Inbox/Circumcenter of a triangle.md",
+    "Inbox/1D Plasticity.md",
+    "Inbox/Initial value problem.md",
     "Inbox/Bar and beam.md",
-    "Inbox/Euler-Bernoulli beam.md",
-    "Inbox/Lasserre’s method.md",
-    "Inbox/Curved beam.md",
-    "Inbox/Return mapping algorithm.md",
-    "Home.md",
-    "Inbox/➤ Structure of Julia program.md",
-    "Inbox/Data structure of Julia.md",
-    "Inbox/Virtual Element Method.md",
-    "Inbox/❖ Workflow.md",
-    "Inbox/Variational principle in mathematical sense.md",
-    "Inbox/Variational principle.md",
-    "Inbox/Uflyand-Mindlin plate.md",
-    "Inbox/Total Lagrangian formulation.md",
-    "Inbox/T6P3.md",
+    "Inbox/Reproducing kernel approximation.md",
     "Inbox/Cantilever Beam.md",
-    "Inbox/项目仓模版.md",
-    "Inbox/搜索技能.md",
+    "Inbox/Shell formulation.md",
     "Inbox/1D phase field modeling fracture.md",
+    "Inbox/Variational principle in mathematical sense.md",
+    "Inbox/Crouzeix-Raviart triangular element.md",
+    "Inbox/Locking in various problem.md",
+    "Inbox/Definitions, theorems and proofs.md",
     "Inbox/Strong and weak forms for shell formulation.md",
-    "Inbox/Spectral decomposition of elasticity.md",
-    "Inbox/Span, linear independent and dimension.md",
-    "Inbox/Simply supported equilateral triangular plate with uniformly load.md",
-    "Inbox/Attachments",
+    "Inbox/Recurrence relations of Ledgendre polynomials.md",
+    "Inbox/Mohr's circle.md",
+    "Inbox/Inverse of Moment Matrix.md",
+    "Inbox/Expansion by Legendre Series.md",
+    "Inbox/Newmark-β method.md",
+    "Inbox/Hyperelasticity.md",
+    "Inbox/Helmholtz decomposition.md",
+    "Inbox/Curved beam.md",
+    "Inbox/Projection in Hilbert space.md",
+    "Inbox/Nonlinear Elasticity.md",
+    "Inbox/T6P3.md",
+    "Inbox/Hollow cylinder under  inner and outer pressures.md",
+    "Inbox/Mohr-Coulomb model.md",
+    "Inbox/Plate.md",
     "Attachments/themes/olive.css",
     "Attachments/themes/minimal-turquoise.css",
     "Attachments/themes/minimal-container-turquoise.css",
@@ -248,6 +190,7 @@
     "Attachments/themes/github.css",
     "Attachments/themes/dracula.css",
     "Attachments/themes/colors.css",
+    "Attachments/themes/color-head.css",
     "Attachments/Scripts/Downloaded/Mindmap format.svg"
   ]
 }
