@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e69f0fe6e1f8a750",
+        "id": "ec87450c96fb2a7b",
         "type": "tabs",
         "children": [
           {
-            "id": "bef77fa47bc368d2",
+            "id": "8dfbf1383ea5436b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "017b7b5e8a440c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Nonlinear Elasticity.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,7 +51,7 @@
         "dimension": 36.60777385159011,
         "children": [
           {
-            "id": "6a599cf454d184e6",
+            "id": "cb9dfcc2f19dbf5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tutorial/Obsidian",
+                "query": "tag:#Math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8a48caa7906c0773",
@@ -74,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Inbox/Nonlinear Elasticity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -97,7 +112,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.6252124604911651,
                   "close": true
                 }
               }
@@ -118,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 435.5
   },
   "right": {
     "id": "c33f8794d1bb0555",
@@ -135,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Inbox/Nonlinear Elasticity.md"
               }
             }
           },
@@ -147,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7fcded6df7eda13f",
@@ -194,18 +210,35 @@
       "cmdr:Git: Pull": false
     }
   },
-  "active": "bef77fa47bc368d2",
+  "active": "017b7b5e8a440c2c",
   "lastOpenFiles": [
-    "Inbox/Marp教程.md",
-    "Inbox/Workspace管理文档.md",
-    "Inbox/Obsidian 配置与使用.md",
-    "Attachments/Marp教程2024-05-1318.08.15.excalidraw.md",
-    "Attachments/Workspace管理文档 2024-05-13 13.18.01.excalidraw.md",
-    "Inbox/Attachments",
-    "Kanban.md",
-    "Templates/Tutorial.md",
+    "Inbox/Shell formulation.md",
+    "Inbox/Curvilinear Coordinates.md",
+    "Inbox/Circumcenter of a triangle.md",
+    "Inbox/Bar and beam.md",
+    "Inbox/Euler-Bernoulli beam.md",
+    "Inbox/Lasserre’s method.md",
+    "Inbox/Curved beam.md",
+    "Inbox/Return mapping algorithm.md",
     "Home.md",
-    "Inbox/➤ 汇报模版.md",
+    "Inbox/➤ Structure of Julia program.md",
+    "Inbox/Data structure of Julia.md",
+    "Inbox/Virtual Element Method.md",
+    "Inbox/❖ Workflow.md",
+    "Inbox/Variational principle in mathematical sense.md",
+    "Inbox/Variational principle.md",
+    "Inbox/Uflyand-Mindlin plate.md",
+    "Inbox/Total Lagrangian formulation.md",
+    "Inbox/T6P3.md",
+    "Inbox/Cantilever Beam.md",
+    "Inbox/项目仓模版.md",
+    "Inbox/搜索技能.md",
+    "Inbox/1D phase field modeling fracture.md",
+    "Inbox/Strong and weak forms for shell formulation.md",
+    "Inbox/Spectral decomposition of elasticity.md",
+    "Inbox/Span, linear independent and dimension.md",
+    "Inbox/Simply supported equilateral triangular plate with uniformly load.md",
+    "Inbox/Attachments",
     "Attachments/themes/olive.css",
     "Attachments/themes/minimal-turquoise.css",
     "Attachments/themes/minimal-container-turquoise.css",
@@ -215,23 +248,6 @@
     "Attachments/themes/github.css",
     "Attachments/themes/dracula.css",
     "Attachments/themes/colors.css",
-    "Inbox/汇报模版.md",
-    "Group/吴俊超.md",
-    "Tasks/Inbox.md",
-    "Inbox/github.com.md",
-    "Templates/Slide.md",
-    "Templates/Wiki.md",
-    "Inbox/Attachments/Workspace管理文档 2024-05-13 13.18.01.excalidraw.md",
-    "Inbox/Attachments/Workspace管理文档 2024-05-13 13.12.26.excalidraw.md",
-    "Attachments/scripts/tp-report.md",
-    "Templates/Test.md",
-    "Templates/tp-test.md",
-    "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-25.md",
-    "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-28.md",
-    "Tasks Plugin - Review and check your Statuses 2024-05-12 20-20-27.md",
-    "Templates/tp-report.md",
-    "Workspace管理文档.md",
-    "Tasks/2024-20.md",
     "Attachments/Scripts/Downloaded/Mindmap format.svg"
   ]
 }

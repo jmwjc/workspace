@@ -9,7 +9,7 @@
     "Tasks/",
     "Attachments/"
   ],
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "propertiesInDocument": "visible",
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true
