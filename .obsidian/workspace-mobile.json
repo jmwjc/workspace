@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "a0a7cff761264bd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6e47e454d2186a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b951753e58247207",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82ab4090fa32d0b2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "90c2f60bafa54fc5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fb4643beb505a6a9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c8e618ae61bddd6f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b3c7d83cd9cf99f4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a17d57ea4816f5f2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Home.md"
+          }
+        }
+      },
+      {
+        "id": "83420e6bceb86201",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "20f98398ef140e49",
+        "type": "leaf",
+        "state": {
+          "type": "tasks_timeline_view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "cmdr:Templater: Create new note from template": false,
+      "cmdr:Git: Commit all changes": false,
+      "cmdr:Git: Pull": false,
+      "cmdr:Git: Push": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b951753e58247207",
+  "lastOpenFiles": []
+}

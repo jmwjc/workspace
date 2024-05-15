@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec87450c96fb2a7b",
+        "id": "666153f4bfca7a59",
         "type": "tabs",
         "children": [
           {
-            "id": "8dfbf1383ea5436b",
+            "id": "cfd05c5859783652",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "c9094365ebdddd95",
+            "id": "259da16d45ba4255",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Bar and beam.md",
+                "file": "Inbox/Marp教程.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -51,7 +51,7 @@
         "dimension": 36.60777385159011,
         "children": [
           {
-            "id": "cb9dfcc2f19dbf5e",
+            "id": "6a599cf454d184e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Elasticity/Plate",
+                "query": "tag:#Elasticity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8a48caa7906c0773",
@@ -89,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Bar and beam.md",
+                "file": "Inbox/Marp教程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +111,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6252124604911651,
+                  "scale": 1.2247448713915907,
                   "close": true
                 }
               }
@@ -129,12 +128,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 300
   },
   "right": {
     "id": "c33f8794d1bb0555",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Bar and beam.md"
+                "file": "Inbox/Marp教程.md"
               }
             }
           },
@@ -163,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7fcded6df7eda13f",
@@ -211,29 +208,30 @@
       "cmdr:Git: Pull": false
     }
   },
-  "active": "ad559b25255a48ed",
+  "active": "259da16d45ba4255",
   "lastOpenFiles": [
-    "Inbox/Curved beam.md",
-    "Inbox/Euler-Bernoulli beam.md",
-    "Inbox/Bar and beam.md",
-    "Inbox/Inverse of Moment Matrix.md",
-    "Inbox/Circumcenter of a triangle.md",
-    "Inbox/MKL and Pardiso config.md",
-    "Inbox/Obsidian 配置与使用.md",
-    "Inbox/Linear Elasticity.md",
-    "Inbox/Hyperelasticity.md",
-    "Inbox/Elasticity.md",
     "Home.md",
+    "Inbox/Marp教程.md",
+    "Inbox/Marp教程.md",
+    "Inbox/Locking in various problem.md",
+    "Inbox/length, area, volume for simplex cells.md",
+    "Inbox/Linear Elasticity.md",
+    "Inbox/Marp教程.html",
+    "Inbox/Space-time finite element methods for elastodynamics Formulations and error estimates Untitled.md",
+    "Templates/Paper.md",
+    "Inbox/Kirchhoff-Love Plate.md",
+    "Inbox/Hellinger-Reissner (HR) Principle.md",
+    "Inbox/Hyperelasticity.md",
     "Inbox/Nonlinear Elasticity.md",
-    "conflict-files-obsidian-git.md",
     "Inbox/Shell formulation.md",
     "Inbox/Curvilinear Coordinates.md",
-    "Inbox/Lasserre’s method.md",
-    "Inbox/Return mapping algorithm.md",
-    "Inbox/➤ Structure of Julia program.md",
+    "Inbox/Curved beam.md",
+    "Inbox/MKL and Pardiso config.md",
+    "Inbox/Elasticity.md",
+    "Inbox/Elasticity 1.md",
+    "conflict-files-obsidian-git.md",
     "Inbox/Data structure of Julia.md",
     "Inbox/Virtual Element Method.md",
-    "Inbox/❖ Workflow.md",
     "Inbox/Variational principle in mathematical sense.md",
     "Inbox/Variational principle.md",
     "Inbox/Uflyand-Mindlin plate.md",
@@ -248,7 +246,6 @@
     "Attachments/themes/gradient.css",
     "Attachments/themes/github.css",
     "Attachments/themes/dracula.css",
-    "Attachments/themes/colors.css",
     "Attachments/Scripts/Downloaded/Mindmap format.svg"
   ]
 }

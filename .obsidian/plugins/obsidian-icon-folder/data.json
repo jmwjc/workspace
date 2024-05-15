@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiNotes",
+      "TiNote",
       "OcInfinity16",
       "BoBxSlideshow",
-      "LiHome",
-      "TiHelp",
-      "OcTasklist16"
+      "LiHome"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,9 +62,6 @@
     "iconName": "TiHelp"
   },
   "Home.md": "LiHome",
-  "Inbox/Marp教程.md": {
-    "iconName": "BoBxSlideshow"
-  },
   "Inbox/项目仓模版.md": {
     "iconName": "TiHelp"
   },
@@ -259,5 +256,8 @@
   },
   "Inbox/MKL and Pardiso config.md": {
     "iconName": "TiHelp"
+  },
+  "Templates/Paper.md": {
+    "iconName": "TiNotes"
   }
 }
