@@ -18,8 +18,8 @@ icon: OcGear16
 - [ ] 帮助文档
 - [ ] Obsidian基本配置说明
 # 实现插件
-- [ ] 快速插入: Quickadd+buttons+meta bind
-- [ ] 测试报告: tasks+tasks bar+quickadd+templater
+- [x] 快速插入: Quickadd+buttons+meta bind  [completion:: 2024-05-16]
+- [x] 测试报告: tasks+tasks bar+quickadd+templater  [completion:: 2024-05-16]
 - [ ] 图片管理: attachment manager
 - [ ] 数据汇总: dataview
 

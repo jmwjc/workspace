@@ -44,9 +44,22 @@
                 "file": "Kanban.md"
               }
             }
+          },
+          {
+            "id": "5f3d90a6cbabdadd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Group/徐杨涛.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Workspace管理文档.md",
+                "file": "Group/徐杨涛.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Workspace管理文档.md"
+                "file": "Group/徐杨涛.md"
               }
             }
           },
@@ -219,19 +232,19 @@
       "cmdr:Git: Pull": false
     }
   },
-  "active": "a7bb628bf3b3a569",
+  "active": "5f3d90a6cbabdadd",
   "lastOpenFiles": [
-    "Inbox/常用软件配置.md",
     "Group/王崇志.md",
+    "Home.md",
+    "Inbox/Workspace管理文档.md",
+    "Inbox/常用软件配置.md",
     "Group/吴俊超.md",
     "Group/徐杨涛.md",
     "Kanban.md",
     "Inbox/MKL and Pardiso config.md",
-    "Inbox/Workspace管理文档.md",
     "Inbox/项目仓模版.md",
     "Inbox/Mixed approximation for Hamilton formulation.md",
     "Attachments/scripts/kanban_card.md",
-    "Home.md",
     "Templates/Test.md",
     "References",
     "未命名文件夹",
