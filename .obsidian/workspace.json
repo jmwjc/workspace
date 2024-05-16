@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "666153f4bfca7a59",
+        "id": "ee14394e5055987b",
         "type": "tabs",
         "children": [
           {
-            "id": "cfd05c5859783652",
+            "id": "0508fa363df3126e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,43 +23,20 @@
             }
           },
           {
-            "id": "a7bb628bf3b3a569",
+            "id": "6ae20baf9df20db3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Workspace管理文档.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b21d5d2e87e9c35e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "5f3d90a6cbabdadd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Group/徐杨涛.md",
-                "mode": "preview",
+                "file": "Inbox/项目仓模版.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Group/徐杨涛.md",
+                "file": "Inbox/项目仓模版.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Group/徐杨涛.md"
+                "file": "Inbox/项目仓模版.md"
               }
             }
           },
@@ -232,17 +209,36 @@
       "cmdr:Git: Pull": false
     }
   },
-  "active": "5f3d90a6cbabdadd",
+  "active": "6ae20baf9df20db3",
   "lastOpenFiles": [
+    "Inbox/搜索技能.md",
+    "Inbox/Hamiltonian formulation.md",
+    "Inbox/项目仓模版.md",
+    "Inbox/常用软件配置.md",
     "Group/王崇志.md",
+    "Kanban.md",
+    "Inbox/1D nonlinear formualtion for Saint Venant-Kirchhoff material.md",
+    "Inbox/Attachments/Error-convergence-rate.png",
+    "Inbox/Attachments/non-uniform_20.png",
+    "Inbox/Attachments/non-uniform_10.png",
+    "Inbox/Attachments/Semi-implicit_Euler_error.png",
+    "Inbox/Attachments/semi_implicit_Euler 1.png",
+    "Inbox/Attachments/semi_implicit_Euler.png",
+    "Inbox/Attachments/hmd_2d_n20_error 1.png",
+    "Inbox/Attachments/hmd_2d_n20_error.png",
+    "Inbox/Attachments/hmd_2d_n20.png",
+    "Inbox/Attachments/hmd_2d_n10_error.png",
+    "Inbox/Attachments",
+    "Inbox/Helmholtz decomposition.md",
+    "Inbox/Hellinger-Reissner (HR) Principle.md",
+    "Inbox/Kirchhoff-Love Plate.md",
+    "Inbox/Expansion by Legendre Series.md",
+    "Inbox/Forced vibration of circular plates with the harmonic force.md",
     "Home.md",
     "Inbox/Workspace管理文档.md",
-    "Inbox/常用软件配置.md",
     "Group/吴俊超.md",
     "Group/徐杨涛.md",
-    "Kanban.md",
     "Inbox/MKL and Pardiso config.md",
-    "Inbox/项目仓模版.md",
     "Inbox/Mixed approximation for Hamilton formulation.md",
     "Attachments/scripts/kanban_card.md",
     "Templates/Test.md",
@@ -260,16 +256,6 @@
     "Inbox/Marp教程.md",
     "Inbox/Locking in various problem.md",
     "Attachments/themes/am_template.scss",
-    "Inbox/Curved beam.md",
-    "Inbox/Bar and beam.md",
-    "Inbox/Linear Elasticity.md",
-    "Inbox/Variational principle in mathematical sense.md",
-    "Inbox/Variational principle.md",
-    "Inbox/length, area, volume for simplex cells.md",
-    "Inbox/Space-time finite element methods for elastodynamics Formulations and error estimates Untitled.md",
-    "Templates/Paper.md",
-    "Inbox/Kirchhoff-Love Plate.md",
-    "Inbox/Attachments",
-    "Attachments/Scripts/Downloaded/Mindmap format.svg"
+    "Inbox/Curved beam.md"
   ]
 }
