@@ -3,7 +3,7 @@
   "ThemePath": "Attachments/themes/",
   "EnableHTML": true,
   "MathTypesettings": "mathjax",
-  "HTMLExportMode": "bare",
+  "HTMLExportMode": "bespoke",
   "EXPORT_PATH": "",
   "EnableSyncPreview": true,
   "EnableMarkdownItPlugins": true

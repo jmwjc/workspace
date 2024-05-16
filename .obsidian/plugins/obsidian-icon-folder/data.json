@@ -259,5 +259,10 @@
   },
   "Templates/Paper.md": {
     "iconName": "TiNotes"
-  }
+  },
+  "Inbox/Plate.md": {
+    "iconName": "OcInfinity16"
+  },
+  "Inbox/Marp教程.md": "BoBxSlideshow",
+  "Inbox/AwesomeMarp_red.md": "BoBxSlideshow"
 }

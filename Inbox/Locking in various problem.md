@@ -52,7 +52,7 @@ $$
 |…|…|…|…|…|
 |$n$|$n+1$|$n+1$|$2n+2$|$n+1$|
 - [ ] #TODO **Shearing locking in Mindlin plate problem**
-- [ ] #TODO **[[Curved beam|Membrane and shearing locking in curved Timoshenko beam problem]]**
+- **[[Curved beam|Membrane and shearing locking in curved Timoshenko beam problem]]**
 
 $$
 {\color{blue} u,w, \varphi} \qquad N = EA({\color{red}u_{,1}-\Gamma_{11}^3 w}),\;V = kGA({\color{red}w_{,1}-\varphi-\Gamma_{13}^1u})
@@ -63,7 +63,8 @@ $$
 |2|3|3|9|3|
 |3|4|4|12|4|
 |…|…|…|…|…|
-|$n$|$n+1$|$n+1$|$3n+3$|$n+1$|
+| $n$ | $n+1$ | $n+1$ | $3n+3$ | $n+1$ |
+
 - [ ] #TODO **[[Curved beam|Membrane locking in curved Euler beam problem]]**
 $$
 {\color{blue} u,w} \qquad N = EA({\color{red}u_{,1}-\Gamma_{11}^3 w})
