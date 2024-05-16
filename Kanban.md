@@ -13,13 +13,10 @@ kanban-plugin: basic
 
 ## Hamilton virtual boundary condition #Group/王崇志
 
+- [ ] [[Mixed approximation for Hamilton formulation]]<br>```tasks<br>filename includes Mixed approximation for Hamilton formulation<br>```
 
 
 ## Mindlin plate mixed formulation #Group/徐洋涛
-
-
-
-## Interpolative Galerkin formulation
 
 
 
@@ -27,6 +24,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","new-card-insertion-method":"append","new-line-trigger":"enter","show-checkboxes":true}
+{"kanban-plugin":"basic","new-card-insertion-method":"append","new-line-trigger":"enter","show-checkboxes":true,"lane-width":500,"tag-colors":[{"tagKey":"","color":"","backgroundColor":""}]}
 ```
 %%

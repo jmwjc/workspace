@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f93c01f565c2cf40",
+        "id": "206f291329639955",
         "type": "tabs",
         "children": [
           {
-            "id": "30363bcf6b318076",
+            "id": "8cc1be804b8b2d38",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f166f8b3bee0b2d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Inbox.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +80,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tasks/Inbox.md"
+            "file": "Home.md"
           }
         }
       },
@@ -131,8 +117,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f166f8b3bee0b2d7",
+  "active": "8cc1be804b8b2d38",
   "lastOpenFiles": [
+    "Tasks/Inbox.md",
     "Group/吴俊超.md",
     "Kanban.md",
     "Home.md"

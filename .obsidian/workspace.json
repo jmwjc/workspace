@@ -4,18 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "a317312ac49cff35",
+        "id": "666153f4bfca7a59",
         "type": "tabs",
         "children": [
           {
-            "id": "e2c0f8d0a123a1e0",
+            "id": "cfd05c5859783652",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a7bb628bf3b3a569",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Workspace管理文档.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b21d5d2e87e9c35e",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -27,7 +58,7 @@
       {
         "id": "da6a24828df24e24",
         "type": "tabs",
-        "dimension": 59.13853317811408,
+        "dimension": 52.29681978798587,
         "children": [
           {
             "id": "6a599cf454d184e6",
@@ -45,21 +76,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Group",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "fb4f75c745da9856",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -67,7 +90,7 @@
       {
         "id": "8a48caa7906c0773",
         "type": "tabs",
-        "dimension": 40.86146682188591,
+        "dimension": 47.70318021201413,
         "children": [
           {
             "id": "f8f984df570b04bc",
@@ -75,6 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Inbox/Workspace管理文档.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -97,7 +121,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6044402177207013,
+                  "scale": 1.2247448713915907,
                   "close": true
                 }
               }
@@ -114,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,16 +152,51 @@
       {
         "id": "9ec09086885b4cff",
         "type": "tabs",
+        "dimension": 35.47703180212014,
         "children": [
           {
             "id": "b3edd1dbe0987ff5",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Inbox/Workspace管理文档.md"
+              }
+            }
+          },
+          {
+            "id": "89c8e59463a81594",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ]
+      },
+      {
+        "id": "7fcded6df7eda13f",
+        "type": "tabs",
+        "dimension": 64.52296819787986,
+        "children": [
+          {
+            "id": "18c54f1e19bf1378",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0da4fe986980664b",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,53 +204,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false
+      "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
+      "homepage:Open homepage": false,
+      "cmdr:Templater: Create new note from template": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false,
+      "univer:Univer": false,
+      "marp-slides:Show Slide Preview": false,
+      "cmdr:Git: Push": false,
+      "cmdr:Git: Commit all changes": false,
+      "cmdr:Git: Pull": false
     }
   },
-  "active": "e2c0f8d0a123a1e0",
+  "active": "a7bb628bf3b3a569",
   "lastOpenFiles": [
-    "Attachments/themes/hqu.css",
-    "Inbox/AwesomeMarp_red.html",
-    "Inbox/AwesomeMarp_red.pdf",
-    "Attachments/themes/am_red.scss",
-    "Attachments/themes/am_template.scss",
+    "Inbox/常用软件配置.md",
+    "Group/王崇志.md",
+    "Group/吴俊超.md",
+    "Group/徐杨涛.md",
+    "Kanban.md",
+    "Inbox/MKL and Pardiso config.md",
+    "Inbox/Workspace管理文档.md",
+    "Inbox/项目仓模版.md",
+    "Inbox/Mixed approximation for Hamilton formulation.md",
+    "Attachments/scripts/kanban_card.md",
+    "Home.md",
+    "Templates/Test.md",
+    "References",
+    "未命名文件夹",
+    "Inbox/Plate with a hole.md",
+    "Inbox/Plate.md",
     "Inbox/AwesomeMarp_red.md",
+    "Attachments/themes/hqu.css",
+    "Attachments/themes/am_red.scss",
+    "Attachments/themes/am_red.css",
+    "Inbox/AwesomeMarp_red.pdf",
     "Inbox/Marp教程.html",
+    "Inbox/AwesomeMarp_red.html",
+    "Inbox/Marp教程.md",
+    "Inbox/Locking in various problem.md",
+    "Attachments/themes/am_template.scss",
+    "Inbox/Curved beam.md",
+    "Inbox/Bar and beam.md",
+    "Inbox/Linear Elasticity.md",
+    "Inbox/Variational principle in mathematical sense.md",
+    "Inbox/Variational principle.md",
+    "Inbox/length, area, volume for simplex cells.md",
     "Inbox/Space-time finite element methods for elastodynamics Formulations and error estimates Untitled.md",
     "Templates/Paper.md",
-    "Inbox/Untitled.md",
-    "Inbox/MKL and Pardiso config.md",
-    "Inbox/Linear Elasticity.md",
-    "Inbox/1D Plasticity.md",
-    "Inbox/Initial value problem.md",
-    "Inbox/Bar and beam.md",
-    "Inbox/Reproducing kernel approximation.md",
-    "Inbox/Cantilever Beam.md",
-    "Inbox/Shell formulation.md",
-    "Inbox/1D phase field modeling fracture.md",
-    "Inbox/Variational principle in mathematical sense.md",
-    "Inbox/Crouzeix-Raviart triangular element.md",
-    "Inbox/Locking in various problem.md",
-    "Inbox/Definitions, theorems and proofs.md",
-    "Inbox/Strong and weak forms for shell formulation.md",
-    "Inbox/Recurrence relations of Ledgendre polynomials.md",
-    "Inbox/Mohr's circle.md",
-    "Inbox/Inverse of Moment Matrix.md",
-    "Inbox/Expansion by Legendre Series.md",
-    "Inbox/Newmark-β method.md",
-    "Inbox/Hyperelasticity.md",
-    "Inbox/Helmholtz decomposition.md",
-    "Attachments/themes/olive.css",
-    "Attachments/themes/minimal-turquoise.css",
-    "Attachments/themes/minimal-container-turquoise.css",
-    "Attachments/themes/iggg.css",
-    "Attachments/themes/haskell.css",
+    "Inbox/Kirchhoff-Love Plate.md",
+    "Inbox/Attachments",
     "Attachments/Scripts/Downloaded/Mindmap format.svg"
   ]
 }

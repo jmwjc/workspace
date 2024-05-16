@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiNotes",
-      "TiNote",
-      "OcInfinity16",
-      "BoBxSlideshow",
-      "LiHome"
+      "OcPerson16",
+      "TiReportAnalytics",
+      "TiHelp",
+      "LiNotebook",
+      "TiNotes"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -260,9 +260,21 @@
   "Templates/Paper.md": {
     "iconName": "TiNotes"
   },
+  "Inbox/Marp教程.md": {
+    "iconName": "BoBxSlideshow"
+  },
   "Inbox/Plate.md": {
     "iconName": "OcInfinity16"
   },
-  "Inbox/Marp教程.md": "BoBxSlideshow",
-  "Inbox/AwesomeMarp_red.md": "BoBxSlideshow"
+  "Inbox/AwesomeMarp_red.md": "BoBxSlideshow",
+  "References": "LiNotebook",
+  "Inbox/常用软件配置.md": {
+    "iconName": "TiHelp"
+  },
+  "Group/徐杨涛.md": {
+    "iconName": "OcPerson16"
+  },
+  "Group/王崇志.md": {
+    "iconName": "OcPerson16"
+  }
 }

@@ -273,6 +273,19 @@
       "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
       "name": "Excalidraw",
       "icon": "pen-tool"
+    },
+    {
+      "id": "templater-obsidian:insert-templater",
+      "name": "Templater",
+      "icon": "templater-icon",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Alt"
+          ],
+          "key": "e"
+        }
+      ]
     }
   ],
   "appendMethod": "workspace",
@@ -280,7 +293,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 558,
+  "cMenuWidth": 610,
   "cMenuFontColor": "#2DC26B",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,

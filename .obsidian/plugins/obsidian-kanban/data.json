@@ -1,5 +1,7 @@
 {
-  "new-card-insertion-method": "prepend",
+  "new-card-insertion-method": "append",
   "new-note-folder": "Inbox",
-  "tag-colors": []
+  "tag-colors": [],
+  "show-checkboxes": true,
+  "new-note-template": "Templates/Test.md"
 }
