@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/项目仓模版.md",
+                "file": "Inbox/Hamiltonian formulation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/项目仓模版.md",
+                "file": "Inbox/Hamiltonian formulation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/项目仓模版.md"
+                "file": "Inbox/Hamiltonian formulation.md"
               }
             }
           },
@@ -211,9 +211,9 @@
   },
   "active": "6ae20baf9df20db3",
   "lastOpenFiles": [
+    "Inbox/项目仓模版.md",
     "Inbox/搜索技能.md",
     "Inbox/Hamiltonian formulation.md",
-    "Inbox/项目仓模版.md",
     "Inbox/常用软件配置.md",
     "Group/王崇志.md",
     "Kanban.md",
