@@ -1,4 +1,8 @@
-#Group/王崇志 
+---
+icon: OcInfinity16
+---
+
+ #Group/王崇志  #Hamilton
 ## Hamiltonian  formula derivation
 
 在给定初始边界条件 $\delta u(t_1) = 0$ 、$u (t_0) = u_0$ 的前提下，验证哈密顿法则在时间和空间二维下计算动力系统的准确性，以下是哈密顿法则F1算例的推导。
@@ -67,6 +71,7 @@ $$
 ## Euler iterative formula derivation
 
 Explicit_Euler
+
 $$
 \left \{
 \begin{split}
@@ -75,7 +80,8 @@ $$
 \boldsymbol d_{n+1} &= \boldsymbol d_n + \Delta t \dot {\boldsymbol d}_n
 \end{split}
 \right . 
-$$Semi-implicit_Euler
+$$ 
+Semi-implicit_Euler
 $$
 \left \{
 \begin{split}

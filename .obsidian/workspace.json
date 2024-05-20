@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee14394e5055987b",
+        "id": "ec87450c96fb2a7b",
         "type": "tabs",
         "children": [
           {
-            "id": "0508fa363df3126e",
+            "id": "8dfbf1383ea5436b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "6ae20baf9df20db3",
+            "id": "ec26acbcbbaef92e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Inbox/Hamiltonian formulation.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -48,10 +48,10 @@
       {
         "id": "da6a24828df24e24",
         "type": "tabs",
-        "dimension": 52.29681978798587,
+        "dimension": 36.60777385159011,
         "children": [
           {
-            "id": "6a599cf454d184e6",
+            "id": "cb9dfcc2f19dbf5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Group",
+                "query": "tag:#Group/王崇志",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,12 +75,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8a48caa7906c0773",
         "type": "tabs",
-        "dimension": 47.70318021201413,
+        "dimension": 63.39222614840989,
         "children": [
           {
             "id": "f8f984df570b04bc",
@@ -111,7 +112,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.2247448713915907,
+                  "scale": 0.6252124604911651,
                   "close": true
                 }
               }
@@ -133,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 435.5
   },
   "right": {
     "id": "c33f8794d1bb0555",
@@ -162,7 +163,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7fcded6df7eda13f",
@@ -209,53 +211,53 @@
       "cmdr:Git: Pull": false
     }
   },
-  "active": "6ae20baf9df20db3",
+  "active": "ec26acbcbbaef92e",
   "lastOpenFiles": [
-    "Inbox/项目仓模版.md",
-    "Inbox/搜索技能.md",
+    "Inbox/AwesomeMarp_red.md",
     "Inbox/Hamiltonian formulation.md",
-    "Inbox/常用软件配置.md",
-    "Group/王崇志.md",
-    "Kanban.md",
-    "Inbox/1D nonlinear formualtion for Saint Venant-Kirchhoff material.md",
-    "Inbox/Attachments/Error-convergence-rate.png",
+    "Inbox/Attachments/semi_implicit_Euler.png",
+    "Inbox/Attachments/semi_implicit_Euler 1.png",
     "Inbox/Attachments/non-uniform_20.png",
     "Inbox/Attachments/non-uniform_10.png",
-    "Inbox/Attachments/Semi-implicit_Euler_error.png",
-    "Inbox/Attachments/semi_implicit_Euler 1.png",
-    "Inbox/Attachments/semi_implicit_Euler.png",
-    "Inbox/Attachments/hmd_2d_n20_error 1.png",
     "Inbox/Attachments/hmd_2d_n20_error.png",
+    "Inbox/Attachments/hmd_2d_n20_error 1.png",
     "Inbox/Attachments/hmd_2d_n20.png",
     "Inbox/Attachments/hmd_2d_n10_error.png",
+    "Inbox/Attachments/hmd_2d_n10.png",
+    "Inbox/Attachments/exact_solution.png",
     "Inbox/Attachments",
-    "Inbox/Helmholtz decomposition.md",
-    "Inbox/Hellinger-Reissner (HR) Principle.md",
-    "Inbox/Kirchhoff-Love Plate.md",
-    "Inbox/Expansion by Legendre Series.md",
-    "Inbox/Forced vibration of circular plates with the harmonic force.md",
-    "Home.md",
-    "Inbox/Workspace管理文档.md",
-    "Group/吴俊超.md",
+    "Group/王崇志.md",
+    "Group/徐杨涛 1.md",
     "Group/徐杨涛.md",
-    "Inbox/MKL and Pardiso config.md",
+    "Group/吴俊超 1.md",
     "Inbox/Mixed approximation for Hamilton formulation.md",
     "Attachments/scripts/kanban_card.md",
-    "Templates/Test.md",
+    "Inbox/常用软件配置.md",
     "References",
     "未命名文件夹",
-    "Inbox/Plate with a hole.md",
-    "Inbox/Plate.md",
-    "Inbox/AwesomeMarp_red.md",
     "Attachments/themes/hqu.css",
     "Attachments/themes/am_red.scss",
+    "Inbox/A New Way for Testing Galerkin Methods.md",
     "Attachments/themes/am_red.css",
+    "Home.md",
     "Inbox/AwesomeMarp_red.pdf",
-    "Inbox/Marp教程.html",
-    "Inbox/AwesomeMarp_red.html",
     "Inbox/Marp教程.md",
-    "Inbox/Locking in various problem.md",
+    "Inbox/Marp教程.html",
+    "Inbox/Plugins for Zotero.md",
+    "Inbox/Plate with a hole.md",
+    "Inbox/Plate.md",
+    "Inbox/AwesomeMarp_red.html",
+    "Inbox/搜索技能.md",
     "Attachments/themes/am_template.scss",
-    "Inbox/Curved beam.md"
+    "Inbox/Marp教程 2.md",
+    "Inbox/Space-time finite element methods for elastodynamics Formulations and error estimates Untitled.md",
+    "Inbox/Untitled.md",
+    "Templates/Paper.md",
+    "Templates/未命名.md",
+    "Inbox/项目仓模版.md",
+    "Inbox/Bar and beam.md",
+    "Inbox/Curved beam.md",
+    "Inbox/Euler-Bernoulli beam.md",
+    "Inbox/Inverse of Moment Matrix.md"
   ]
 }
