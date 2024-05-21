@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee14394e5055987b",
+        "id": "51462e07a8c21eec",
         "type": "tabs",
         "children": [
           {
-            "id": "0508fa363df3126e",
+            "id": "a8f7b9268641bd61",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,77 @@
             }
           },
           {
-            "id": "6ae20baf9df20db3",
+            "id": "138e8e0f3fec549b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Hamiltonian formulation.md",
+                "file": "Tasks/Inbox.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5332abe560eb5494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Inbox.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fd20aad20be1790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Group/王崇志.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1243d5380025350a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Inbox.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b46d2bf7a2d7435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Inbox.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02a5c22b6c8b2b5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Inbox.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Group",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Hamiltonian formulation.md",
+                "file": "Tasks/Inbox.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Hamiltonian formulation.md"
+                "file": "Tasks/Inbox.md"
               }
             }
           },
@@ -185,8 +250,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,15 +273,30 @@
       "cmdr:Git: Pull": false
     }
   },
-  "active": "6ae20baf9df20db3",
+  "active": "5332abe560eb5494",
   "lastOpenFiles": [
+    "Inbox/Crouzeix-Raviart triangular element.md",
+    "Tasks/2024-21.md",
+    "Tasks/2024-20.md",
+    "Group/王崇志.md",
+    "Tasks/Inbox.md",
+    "Inbox/Workspace管理文档.md",
+    "Kanban.md",
     "Inbox/项目仓模版.md",
+    "Group/徐洋涛.md",
+    "Templates/Paper.md",
+    "Home.md",
+    "Inbox/1D nonlinear formualtion for Saint Venant-Kirchhoff material.md",
+    "Inbox/常用软件配置.md",
+    "Group/吴俊超.md",
+    "Inbox/MKL and Pardiso config.md",
+    "Inbox/Paraview 通过 GIMP 导出 gif.md",
+    "Templates/Wiki.md",
+    "Templates/Tutorial.md",
+    "Templates/Test.md",
+    "Templates/Slide.md",
     "Inbox/搜索技能.md",
     "Inbox/Hamiltonian formulation.md",
-    "Inbox/常用软件配置.md",
-    "Group/王崇志.md",
-    "Kanban.md",
-    "Inbox/1D nonlinear formualtion for Saint Venant-Kirchhoff material.md",
     "Inbox/Attachments/Error-convergence-rate.png",
     "Inbox/Attachments/non-uniform_20.png",
     "Inbox/Attachments/non-uniform_10.png",
@@ -233,29 +312,14 @@
     "Inbox/Hellinger-Reissner (HR) Principle.md",
     "Inbox/Kirchhoff-Love Plate.md",
     "Inbox/Expansion by Legendre Series.md",
-    "Inbox/Forced vibration of circular plates with the harmonic force.md",
-    "Home.md",
-    "Inbox/Workspace管理文档.md",
-    "Group/吴俊超.md",
-    "Group/徐杨涛.md",
-    "Inbox/MKL and Pardiso config.md",
-    "Inbox/Mixed approximation for Hamilton formulation.md",
-    "Attachments/scripts/kanban_card.md",
-    "Templates/Test.md",
     "References",
     "未命名文件夹",
-    "Inbox/Plate with a hole.md",
-    "Inbox/Plate.md",
-    "Inbox/AwesomeMarp_red.md",
     "Attachments/themes/hqu.css",
     "Attachments/themes/am_red.scss",
     "Attachments/themes/am_red.css",
     "Inbox/AwesomeMarp_red.pdf",
     "Inbox/Marp教程.html",
     "Inbox/AwesomeMarp_red.html",
-    "Inbox/Marp教程.md",
-    "Inbox/Locking in various problem.md",
-    "Attachments/themes/am_template.scss",
-    "Inbox/Curved beam.md"
+    "Attachments/themes/am_template.scss"
   ]
 }
