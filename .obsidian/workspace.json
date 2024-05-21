@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec87450c96fb2a7b",
+        "id": "666153f4bfca7a59",
         "type": "tabs",
         "children": [
           {
-            "id": "8dfbf1383ea5436b",
+            "id": "cfd05c5859783652",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,20 +23,57 @@
             }
           },
           {
-            "id": "ec26acbcbbaef92e",
+            "id": "a7bb628bf3b3a569",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Hamiltonian formulation.md",
+                "file": "Inbox/Workspace管理文档.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b21d5d2e87e9c35e",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "5f3d90a6cbabdadd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Crouzeix-Raviart triangular element.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "d265ee28ee7b9d67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee3bf1b73fbfc12a",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,10 +85,10 @@
       {
         "id": "da6a24828df24e24",
         "type": "tabs",
-        "dimension": 36.60777385159011,
+        "dimension": 52.29681978798587,
         "children": [
           {
-            "id": "cb9dfcc2f19dbf5e",
+            "id": "6a599cf454d184e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Group/王崇志",
+                "query": "tag:#Group",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,13 +112,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8a48caa7906c0773",
         "type": "tabs",
-        "dimension": 63.39222614840989,
+        "dimension": 47.70318021201413,
         "children": [
           {
             "id": "f8f984df570b04bc",
@@ -89,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Hamiltonian formulation.md",
+                "file": "Inbox/Crouzeix-Raviart triangular element.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +148,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6252124604911651,
+                  "scale": 1.2247448713915907,
                   "close": true
                 }
               }
@@ -134,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 300
   },
   "right": {
     "id": "c33f8794d1bb0555",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Hamiltonian formulation.md"
+                "file": "Inbox/Crouzeix-Raviart triangular element.md"
               }
             }
           },
@@ -163,8 +199,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7fcded6df7eda13f",
@@ -211,10 +246,8 @@
       "cmdr:Git: Pull": false
     }
   },
-  "active": "ec26acbcbbaef92e",
+  "active": "5f3d90a6cbabdadd",
   "lastOpenFiles": [
-    "Inbox/AwesomeMarp_red.md",
-    "Inbox/Hamiltonian formulation.md",
     "Inbox/Attachments/semi_implicit_Euler.png",
     "Inbox/Attachments/semi_implicit_Euler 1.png",
     "Inbox/Attachments/non-uniform_20.png",
@@ -225,39 +258,41 @@
     "Inbox/Attachments/hmd_2d_n10_error.png",
     "Inbox/Attachments/hmd_2d_n10.png",
     "Inbox/Attachments/exact_solution.png",
+    "Inbox/Attachments/Error-convergence-rate.png",
     "Inbox/Attachments",
-    "Group/王崇志.md",
-    "Group/徐杨涛 1.md",
+    "Attachments/压力不稳定问题 2024-05-20 14.43.28.excalidraw.md",
+    "Inbox/Attachments/压力不稳定问题 2024-05-20 14.43.28.excalidraw.md",
+    "Inbox/压力不稳定问题.md",
+    "Inbox/Hamiltonian formulation.md",
+    "Inbox/1D nonlinear formualtion for Saint Venant-Kirchhoff material.md",
+    "Inbox/AwesomeMarp_red.md",
+    "Inbox/常用软件配置.md",
     "Group/徐杨涛.md",
-    "Group/吴俊超 1.md",
+    "Group/王崇志.md",
+    "Home.md",
+    "Inbox/Workspace管理文档.md",
+    "Group/吴俊超.md",
+    "Kanban.md",
+    "Inbox/MKL and Pardiso config.md",
+    "Inbox/项目仓模版.md",
     "Inbox/Mixed approximation for Hamilton formulation.md",
     "Attachments/scripts/kanban_card.md",
-    "Inbox/常用软件配置.md",
+    "Templates/Test.md",
     "References",
     "未命名文件夹",
-    "Attachments/themes/hqu.css",
-    "Attachments/themes/am_red.scss",
-    "Inbox/A New Way for Testing Galerkin Methods.md",
-    "Attachments/themes/am_red.css",
-    "Home.md",
-    "Inbox/AwesomeMarp_red.pdf",
-    "Inbox/Marp教程.md",
-    "Inbox/Marp教程.html",
-    "Inbox/Plugins for Zotero.md",
     "Inbox/Plate with a hole.md",
     "Inbox/Plate.md",
+    "Attachments/themes/hqu.css",
+    "Attachments/themes/am_red.scss",
+    "Attachments/themes/am_red.css",
+    "Inbox/AwesomeMarp_red.pdf",
+    "Inbox/Marp教程.html",
     "Inbox/AwesomeMarp_red.html",
-    "Inbox/搜索技能.md",
+    "Inbox/Marp教程.md",
+    "Inbox/Locking in various problem.md",
     "Attachments/themes/am_template.scss",
-    "Inbox/Marp教程 2.md",
-    "Inbox/Space-time finite element methods for elastodynamics Formulations and error estimates Untitled.md",
-    "Inbox/Untitled.md",
-    "Templates/Paper.md",
-    "Templates/未命名.md",
-    "Inbox/项目仓模版.md",
-    "Inbox/Bar and beam.md",
     "Inbox/Curved beam.md",
-    "Inbox/Euler-Bernoulli beam.md",
-    "Inbox/Inverse of Moment Matrix.md"
+    "Inbox/Bar and beam.md",
+    "Inbox/Linear Elasticity.md"
   ]
 }

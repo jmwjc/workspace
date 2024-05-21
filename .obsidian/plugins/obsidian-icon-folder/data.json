@@ -10,7 +10,7 @@
       "OcPerson16",
       "TiReportAnalytics",
       "TiHelp",
-      "TiNotes"
+      "LiNotebook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -259,11 +259,14 @@
   "Templates/Paper.md": {
     "iconName": "TiNotes"
   },
+  "Inbox/Marp教程.md": {
+    "iconName": "BoBxSlideshow"
+  },
   "Inbox/Plate.md": {
     "iconName": "OcInfinity16"
   },
-  "Inbox/Marp教程.md": "BoBxSlideshow",
   "Inbox/AwesomeMarp_red.md": "BoBxSlideshow",
+  "References": "LiNotebook",
   "Inbox/常用软件配置.md": {
     "iconName": "TiHelp"
   },
@@ -275,5 +278,11 @@
   },
   "Inbox/Hamiltonian formulation.md": {
     "iconName": "OcInfinity16"
+  },
+  "Inbox/压力不稳定问题.md": {
+    "iconName": "OcInfinity16"
+  },
+  "Inbox/Mixed approximation for Hamilton formulation.md": {
+    "iconName": "TiReportAnalytics"
   }
 }

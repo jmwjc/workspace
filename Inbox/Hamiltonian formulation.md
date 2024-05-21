@@ -54,6 +54,9 @@ $$
 $$
 K_{IJ} = \int_{t_0}^{t_1} \int_{0}^{L} (N_{I,t} \rho A N_{J,t} - N_{I,x}EAN_{J,x})dxdt
 $$
+$$
+\tilde K_{IK} = \int_{t_0}^{t_1} \int_{0}^{L} (N_{I,t} \rho A \Psi_{K,t} - N_{I,x}EA\Psi_{K,x})dxdt
+$$
 得到力矩阵$f_I$为：
 $$
 f_{I} = \int_{0}^{L} \rho A N_{I,t} N_I dx \vert_{t_0}^{t_1} + \int_{t_0}^{t_1} (\int_{0}^{L} N_{I} b dx + N_{I} P \vert_{x=L})dt
@@ -67,6 +70,19 @@ $$
 f_{I} = - \int_{0}^{L} N_I C dx \vert_{t = t_0}  + \int_{t_0}^{t_1} (\int_{0}^{L} N_{I} b dx + N_{I} P \vert_{x=L})dt
 $$
 带入控制方程 $Kd = f$ 得到精确解
+$$
+\begin{bmatrix}
+\boldsymbol K+\boldsymbol K^\alpha & \tilde{\boldsymbol K} \\
+\tilde{\boldsymbol K}^T & \boldsymbol K^\beta 
+\end{bmatrix}
+\begin{Bmatrix}
+\boldsymbol d \\ \boldsymbol p
+\end{Bmatrix} =
+\begin{Bmatrix}
+\boldsymbol f + \boldsymbol f^\alpha \\
+\boldsymbol f + \boldsymbol f^\beta
+\end{Bmatrix}
+$$
 
 ## Euler iterative formula derivation
 
