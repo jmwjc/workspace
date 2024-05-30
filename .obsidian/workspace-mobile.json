@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "206f291329639955",
+        "id": "d3b5c318cc8f8424",
         "type": "tabs",
         "children": [
           {
-            "id": "8cc1be804b8b2d38",
+            "id": "58e8599abc4397fe",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -17,7 +17,7 @@
                 "file": "Home.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "pinned": true
             }
@@ -117,7 +117,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cc1be804b8b2d38",
+  "active": "58e8599abc4397fe",
   "lastOpenFiles": [
     "Tasks/Inbox.md",
     "Group/吴俊超.md",

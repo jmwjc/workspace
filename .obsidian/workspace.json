@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "666153f4bfca7a59",
+        "id": "2d3e68aafb2c695f",
         "type": "tabs",
         "children": [
           {
-            "id": "cfd05c5859783652",
+            "id": "8bb1f8c5a65f3968",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -17,63 +17,52 @@
                 "file": "Home.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "pinned": true
             }
           },
           {
-            "id": "a7bb628bf3b3a569",
+            "id": "0ab0f9fd654183ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Workspace管理文档.md",
+                "file": "Inbox/压力不稳定问题.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "b21d5d2e87e9c35e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "5f3d90a6cbabdadd",
+            "id": "4e41339ced6eacf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Crouzeix-Raviart triangular element.md",
-                "mode": "source",
+                "file": "Inbox/Hellinger-Reissner nearly-incompressible problem.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0ae5c023108dab3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Linear Elasticity.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "d265ee28ee7b9d67",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ee3bf1b73fbfc12a",
-            "type": "leaf",
-            "state": {
-              "type": "marp-preview-view",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +74,7 @@
       {
         "id": "da6a24828df24e24",
         "type": "tabs",
-        "dimension": 52.29681978798587,
+        "dimension": 59.13853317811409,
         "children": [
           {
             "id": "6a599cf454d184e6",
@@ -103,21 +92,30 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Group",
+                "query": "tag:#Incompressible",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "fb4f75c745da9856",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8a48caa7906c0773",
         "type": "tabs",
-        "dimension": 47.70318021201413,
+        "dimension": 40.86146682188591,
         "children": [
           {
             "id": "f8f984df570b04bc",
@@ -125,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Crouzeix-Raviart triangular element.md",
+                "file": "Inbox/Hellinger-Reissner nearly-incompressible problem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +146,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.2247448713915907,
+                  "scale": 1.0675019815480045,
                   "close": true
                 }
               }
@@ -179,7 +177,6 @@
       {
         "id": "9ec09086885b4cff",
         "type": "tabs",
-        "dimension": 35.47703180212014,
         "children": [
           {
             "id": "b3edd1dbe0987ff5",
@@ -187,27 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Crouzeix-Raviart triangular element.md"
+                "file": "Inbox/Hellinger-Reissner nearly-incompressible problem.md"
               }
             }
           },
           {
-            "id": "89c8e59463a81594",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "7fcded6df7eda13f",
-        "type": "tabs",
-        "dimension": 64.52296819787986,
-        "children": [
-          {
-            "id": "18c54f1e19bf1378",
+            "id": "1bb26f91037fde90",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -215,7 +197,7 @@
             }
           },
           {
-            "id": "0da4fe986980664b",
+            "id": "cef5e8645832a0c1",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -223,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -232,22 +214,32 @@
   "left-ribbon": {
     "hiddenItems": {
       "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
-      "homepage:Open homepage": false,
-      "cmdr:Templater: Create new note from template": false,
+      "marp-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "univer:Univer": false,
       "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "graph:查看关系图谱": false,
-      "univer:Univer": false,
-      "marp-slides:Show Slide Preview": false,
-      "cmdr:Git: Push": false,
+      "cmdr:Templater: Create new note from template": false,
       "cmdr:Git: Commit all changes": false,
-      "cmdr:Git: Pull": false
+      "cmdr:Git: Pull": false,
+      "cmdr:Git: Push": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "5f3d90a6cbabdadd",
+  "active": "4e41339ced6eacf0",
   "lastOpenFiles": [
+    "Inbox/Linear Elasticity.md",
+    "Inbox/Hellinger-Reissner nearly-incompressible problem.md",
+    "Inbox/压力不稳定问题.md",
+    "Home.md",
+    "Inbox/Attachments/Plane with axial traction 2024-05-22 16.13.55.excalidraw.md",
+    "Inbox/Attachments",
+    "Inbox/Plane with axial traction.md",
+    "Attachments/test_instability_b.png",
+    "Attachments/test_instability.png",
+    "Attachments/压力不稳定问题 2024-05-20 14.43.28.excalidraw.md",
     "Inbox/Attachments/semi_implicit_Euler.png",
     "Inbox/Attachments/semi_implicit_Euler 1.png",
     "Inbox/Attachments/non-uniform_20.png",
@@ -256,43 +248,33 @@
     "Inbox/Attachments/hmd_2d_n20_error 1.png",
     "Inbox/Attachments/hmd_2d_n20.png",
     "Inbox/Attachments/hmd_2d_n10_error.png",
-    "Inbox/Attachments/hmd_2d_n10.png",
-    "Inbox/Attachments/exact_solution.png",
-    "Inbox/Attachments/Error-convergence-rate.png",
-    "Inbox/Attachments",
-    "Attachments/压力不稳定问题 2024-05-20 14.43.28.excalidraw.md",
-    "Inbox/Attachments/压力不稳定问题 2024-05-20 14.43.28.excalidraw.md",
-    "Inbox/压力不稳定问题.md",
     "Inbox/Hamiltonian formulation.md",
-    "Inbox/1D nonlinear formualtion for Saint Venant-Kirchhoff material.md",
-    "Inbox/AwesomeMarp_red.md",
-    "Inbox/常用软件配置.md",
     "Group/徐杨涛.md",
     "Group/王崇志.md",
-    "Home.md",
-    "Inbox/Workspace管理文档.md",
-    "Group/吴俊超.md",
-    "Kanban.md",
-    "Inbox/MKL and Pardiso config.md",
-    "Inbox/项目仓模版.md",
+    "Inbox/常用软件配置.md",
     "Inbox/Mixed approximation for Hamilton formulation.md",
-    "Attachments/scripts/kanban_card.md",
-    "Templates/Test.md",
     "References",
-    "未命名文件夹",
-    "Inbox/Plate with a hole.md",
-    "Inbox/Plate.md",
     "Attachments/themes/hqu.css",
-    "Attachments/themes/am_red.scss",
-    "Attachments/themes/am_red.css",
-    "Inbox/AwesomeMarp_red.pdf",
-    "Inbox/Marp教程.html",
     "Inbox/AwesomeMarp_red.html",
-    "Inbox/Marp教程.md",
-    "Inbox/Locking in various problem.md",
+    "Inbox/AwesomeMarp_red.pdf",
+    "Attachments/themes/am_red.scss",
     "Attachments/themes/am_template.scss",
-    "Inbox/Curved beam.md",
+    "Inbox/AwesomeMarp_red.md",
+    "Inbox/Marp教程.html",
+    "Inbox/Space-time finite element methods for elastodynamics Formulations and error estimates Untitled.md",
+    "Templates/Paper.md",
+    "Inbox/Untitled.md",
+    "Inbox/MKL and Pardiso config.md",
+    "Inbox/1D Plasticity.md",
+    "Inbox/Initial value problem.md",
     "Inbox/Bar and beam.md",
-    "Inbox/Linear Elasticity.md"
+    "Inbox/Reproducing kernel approximation.md",
+    "Inbox/Cantilever Beam.md",
+    "Inbox/Shell formulation.md",
+    "Inbox/1D phase field modeling fracture.md",
+    "Inbox/Variational principle in mathematical sense.md",
+    "Inbox/Crouzeix-Raviart triangular element.md",
+    "Attachments/themes/olive.css",
+    "Attachments/themes/minimal-turquoise.css"
   ]
 }

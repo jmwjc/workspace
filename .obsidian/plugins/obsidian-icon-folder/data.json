@@ -284,5 +284,11 @@
   },
   "Inbox/Mixed approximation for Hamilton formulation.md": {
     "iconName": "TiReportAnalytics"
+  },
+  "Inbox/Plane with axial traction.md": {
+    "iconName": "OcInfinity16"
+  },
+  "Inbox/Hellinger-Reissner nearly-incompressible problem.md": {
+    "iconName": "OcInfinity16"
   }
 }
