@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OcInfinity16",
       "OcPerson16",
       "TiReportAnalytics",
       "TiHelp",
-      "LiNotebook",
-      "TiNotes"
+      "LiNotebook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -279,5 +279,14 @@
   },
   "Group/徐洋涛.md": {
     "iconName": "OcPerson16"
+  },
+  "Inbox/Hellinger-Reissner nearly-incompressible problem.md": {
+    "iconName": "OcInfinity16"
+  },
+  "Inbox/Plane with axial traction.md": {
+    "iconName": "OcInfinity16"
+  },
+  "Inbox/压力不稳定问题.md": {
+    "iconName": "OcInfinity16"
   }
 }

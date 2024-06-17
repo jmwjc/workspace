@@ -55,6 +55,12 @@ $$
 
 ^605c91
 
+or
+
+$$
+\boldsymbol \varepsilon =\frac{1}{E}(\boldsymbol \sigma - \nu (\textrm{tr}(\boldsymbol \sigma) \boldsymbol I - \boldsymbol \sigma)), \quad \varepsilon_{ij} = \frac{1}{E} (\sigma_{ij} - \nu(\sigma_{kk}\delta_{ij} - \sigma_{ij}))
+$$
+
 # Galerkin formulation
 The **Galerkin weak form** of elasticity strong form can be derived from *weighted residual method* or *minimum total potential energy principle* as
 $$
@@ -204,6 +210,8 @@ however the strain vector $\boldsymbol \varepsilon$ does not include it since $\
 ![[Spectral decomposition of elasticity]]
 # Benchmark examples
 
+## Patch test
+![[Plane with axial traction]]
 ## Cantilever beam problem (plane stress)
 ![[Cantilever Beam]]
 ## Hollow cylinder under  inner and outer pressures
