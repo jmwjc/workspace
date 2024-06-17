@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "51462e07a8c21eec",
+        "id": "a31abe3cc0b113c5",
         "type": "tabs",
         "children": [
           {
-            "id": "a8f7b9268641bd61",
+            "id": "aeb22926d85e133f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,85 +23,17 @@
             }
           },
           {
-            "id": "138e8e0f3fec549b",
+            "id": "9c978955292c6ad2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Tasks/Inbox.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5332abe560eb5494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Inbox.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fd20aad20be1790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Group/王崇志.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1243d5380025350a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Inbox.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b46d2bf7a2d7435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Inbox.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02a5c22b6c8b2b5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Inbox.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "currentVersion": "1.6.3"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +85,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks/Inbox.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tasks/Inbox.md"
-              }
+              "state": {}
             }
           },
           {
@@ -250,7 +179,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -273,19 +203,19 @@
       "cmdr:Git: Pull": false
     }
   },
-  "active": "5332abe560eb5494",
+  "active": "9c978955292c6ad2",
   "lastOpenFiles": [
+    "Home.md",
+    "Tasks/Inbox.md",
     "Inbox/Crouzeix-Raviart triangular element.md",
     "Tasks/2024-21.md",
     "Tasks/2024-20.md",
     "Group/王崇志.md",
-    "Tasks/Inbox.md",
     "Inbox/Workspace管理文档.md",
     "Kanban.md",
     "Inbox/项目仓模版.md",
     "Group/徐洋涛.md",
     "Templates/Paper.md",
-    "Home.md",
     "Inbox/1D nonlinear formualtion for Saint Venant-Kirchhoff material.md",
     "Inbox/常用软件配置.md",
     "Group/吴俊超.md",
