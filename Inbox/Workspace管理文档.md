@@ -5,8 +5,8 @@ icon: OcGear16
 # 工作区流
 - [x] 添加测试结果  [completion:: 2024-05-10]
 - [-] 快速添加测试报告  [cancelled:: 2024-05-10]
-- [x] 快速添加周报  [scheduled:: 2024-05-10]  [due:: 2024-05-14]  [completion:: 2024-05-11]
-- [x] 快速添加问题 #Group/吴俊超  [scheduled:: 2024-05-11]  [due:: 2024-05-13]  [completion:: 2024-05-13]
+- [x] 快速添加周报  [scheduled:: 2024-05-10]  [due:: 2024-05-14]  [completion:: 2024-05-19]
+- [x] 快速添加问题 #Group/吴俊超  [scheduled:: 2024-05-11]  [due:: 2024-05-13]  [completion:: 2024-05-19]
 - [x] #TODO 自定义工具栏  [scheduled:: 2024-05-11]  [due:: 2024-05-13]  [completion:: 2024-05-13]
 - [ ] 快速添加idea
 - [ ] 快速制作汇报ppt

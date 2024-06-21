@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiHelp",
       "BoBxCalendarWeek",
       "TiNotes",
       "OcInfinity16",
-      "OcPerson16",
-      "TiReportAnalytics"
+      "OcPerson16"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -293,5 +293,11 @@
   },
   "Inbox/Subgrid scale model.md": {
     "iconName": "OcInfinity16"
+  },
+  "Group/徐洋涛.md": {
+    "iconName": "OcPerson16"
+  },
+  "Inbox/Untitled.md": {
+    "iconName": "TiHelp"
   }
 }
