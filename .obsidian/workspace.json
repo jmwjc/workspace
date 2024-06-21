@@ -60,9 +60,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "41654e1f2ecdb5fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Shell formulation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Math/FunctionalAnalysis",
+                "query": "cur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Error estimator for mixed formulation.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Error estimator for mixed formulation.md"
+                "file": "Home.md"
               }
             }
           },
@@ -237,8 +249,13 @@
       "cmdr:Git: Pull": false
     }
   },
-  "active": "c26464b984b55cdc",
+  "active": "8d098b3f3f30da21",
   "lastOpenFiles": [
+    "Inbox/Shell formulation.md",
+    "Inbox/Curvilinear Coordinates.md",
+    "Inbox/Mindlin plate.md",
+    "Inbox/Attachments/Pasted image 20240619165138.png",
+    "Inbox/Error estimator for mixed formulation.md",
     "Inbox/Attachments/Error estimator for mixed formulation-2024-06-21 3.png",
     "Inbox/Attachments/Error estimator for mixed formulation-2024-06-21 2.png",
     "Inbox/未命名.md",
@@ -246,7 +263,6 @@
     "Inbox/未命名 1.canvas",
     "Inbox/❖ Elasticity.md",
     "Inbox/Untitled.md",
-    "Inbox/Mindlin plate.md",
     "Inbox/Attachments/SquarePlate_8_msh.png",
     "Inbox/Attachments/Pasted image 20240621094940.png",
     "Inbox/Attachments/Pasted image 20240621094920.png",
@@ -254,12 +270,9 @@
     "Inbox/Attachments/Pasted image 20240620171552.png",
     "Inbox/Attachments/Pasted image 20240620171526.png",
     "Inbox/Attachments/Pasted image 20240620171426.png",
-    "Inbox/Attachments/Pasted image 20240620171334.png",
-    "Inbox/Attachments/Pasted image 20240620170343.png",
     "Group/徐洋涛.md",
     "Attachments/Drawing 2024-06-17 15.50.32.excalidraw.md",
     "Inbox/Hamiltonian formulation.md",
-    "Inbox/Error estimator for mixed formulation.md",
     "Home.md",
     "Inbox/Projection in Hilbert space.md",
     "Inbox/Subgrid scale model.md",
@@ -277,7 +290,6 @@
     "Inbox/Attachments/Plane with axial traction 2024-05-22 16.13.55.excalidraw.md",
     "Inbox/Attachments",
     "Tasks/Inbox.md",
-    "Inbox/Kirchhoff-Love Plate.md",
     "References",
     "未命名文件夹",
     "Attachments/themes/hqu.css",
