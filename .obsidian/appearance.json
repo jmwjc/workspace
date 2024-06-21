@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "test"
   ],
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "theme": "moonstone"
 }

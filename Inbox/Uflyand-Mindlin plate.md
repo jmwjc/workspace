@@ -84,7 +84,7 @@ $$
 -& \int_{\Gamma_M} \delta \varphi_\alpha(M_{\alpha\beta} n_\beta - \bar M_\alpha) d\Gamma 
 + \int_\Omega \delta \varphi_\alpha(M_{\alpha\beta,\beta} - Q_\alpha)d\Omega \\
 +& \int_{\Gamma_Q} \delta w (Q_\alpha n_\alpha - \bar Q) d\Gamma
-- \int_\Omega \delta w (Q_{\alpha,\alpha} + \bar q_\alpha) d\Omega = 0
+- \int_\Omega \delta w (Q_{\alpha,\alpha} + \bar q) d\Omega = 0
 \end{split}
 $$
 It can be observed from the above equation that, the corresponding strong form regarding in-plane displacement is almost identical with that of [[Linear Elasticity#Plane strain and plane stress|plane stress problems]]. In constrast, the strong form regarding deflection and rotation can be got as follows

@@ -4,6 +4,8 @@ icon: OcInfinity16
 
 #Elasticity  #Example  
 
+# Plane stress
+
 Consider a cantilever beam with thickness $D$ and length $L$. The left hand side of beam is fixed and right side applied a traction $P$ along the $y$ axis. The material parameters of beam is that: Young's Module $E$, Poission's ratio $\nu$. According to [[Linear Elasticity#Plane strain and plane stress|plane stress assumption]] and Saint Venant's principle, the exact solution of this problem is given by:
 
 $$

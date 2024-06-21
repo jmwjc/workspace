@@ -20,6 +20,11 @@ kanban-plugin: basic
 
 
 
+## Volumetric locking #Group/褚英杰
+
+- [ ] Penetration of a rigid footing on Tresca soil
+
+
 
 
 %% kanban:settings

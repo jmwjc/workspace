@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxCalendarWeek",
+      "TiNotes",
       "OcInfinity16",
       "OcPerson16",
-      "TiReportAnalytics",
-      "TiHelp",
-      "LiNotebook"
+      "TiReportAnalytics"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -289,6 +289,9 @@
     "iconName": "OcInfinity16"
   },
   "Inbox/Hellinger-Reissner nearly-incompressible problem.md": {
+    "iconName": "OcInfinity16"
+  },
+  "Inbox/Subgrid scale model.md": {
     "iconName": "OcInfinity16"
   }
 }

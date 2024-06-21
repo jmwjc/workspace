@@ -27,3 +27,16 @@ $$
 \sigma_{xx} = P, \quad
 \sigma_{zz} = \nu P
 $$
+
+**Incompressible material**
+
+Volumetric strain
+$$
+\varepsilon_{ii} = \varepsilon_{11} + \varepsilon_{22} =\frac{1-2\nu}{1-\nu} \varepsilon_{11} = \frac{(1+\nu)(1-2\nu)}{E}P
+$$
+
+Hydrostatic pressure
+$$
+p =\frac{1}{3} \sigma_{ii} =\frac{1}{3}(\sigma_{xx} + \sigma_{zz}) =\frac{1+\nu}{3} P = K\varepsilon_{ii}
+$$
+where $K =\frac{E}{3(1-2\nu)}$.

@@ -1,8 +1,35 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "theorem": {
+      "type": "theorem",
+      "color": "38, 139, 210",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Theorem",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "remark": {
+      "type": "remark",
+      "color": "211, 54, 130",
+      "icon": {
+        "name": "bell",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Remark",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": true,
-  "version": "10.2.0",
+  "version": "10.3.2",
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "injectColor": true,

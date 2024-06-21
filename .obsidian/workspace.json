@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d3e68aafb2c695f",
+        "id": "f396d83e11fc7a58",
         "type": "tabs",
         "children": [
           {
-            "id": "8bb1f8c5a65f3968",
+            "id": "8d098b3f3f30da21",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "0ab0f9fd654183ce",
+            "id": "c26464b984b55cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/压力不稳定问题.md",
+                "file": "Inbox/Error estimator for mixed formulation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "4e41339ced6eacf0",
+            "id": "da373908b73e2b00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Hellinger-Reissner nearly-incompressible problem.md",
+                "file": "Inbox/Projection in Hilbert space.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "0ae5c023108dab3e",
+            "id": "d72543e4bb7d4913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Linear Elasticity.md",
+                "file": "Inbox/Hamiltonian formulation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,10 +74,10 @@
       {
         "id": "da6a24828df24e24",
         "type": "tabs",
-        "dimension": 59.13853317811409,
+        "dimension": 36.60777385159011,
         "children": [
           {
-            "id": "6a599cf454d184e6",
+            "id": "cb9dfcc2f19dbf5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,21 +92,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Incompressible",
+                "query": "tag:#Math/FunctionalAnalysis",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "fb4f75c745da9856",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ],
@@ -115,7 +107,7 @@
       {
         "id": "8a48caa7906c0773",
         "type": "tabs",
-        "dimension": 40.86146682188591,
+        "dimension": 63.39222614840989,
         "children": [
           {
             "id": "f8f984df570b04bc",
@@ -123,9 +115,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Hellinger-Reissner nearly-incompressible problem.md",
+                "file": "Inbox/Error estimator for mixed formulation.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -146,7 +138,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0675019815480045,
+                  "scale": 0.6252124604911651,
                   "close": true
                 }
               }
@@ -168,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "c33f8794d1bb0555",
@@ -177,6 +169,7 @@
       {
         "id": "9ec09086885b4cff",
         "type": "tabs",
+        "dimension": 35.47703180212014,
         "children": [
           {
             "id": "b3edd1dbe0987ff5",
@@ -184,12 +177,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Hellinger-Reissner nearly-incompressible problem.md"
+                "file": "Inbox/Error estimator for mixed formulation.md"
               }
             }
           },
           {
-            "id": "1bb26f91037fde90",
+            "id": "89c8e59463a81594",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7fcded6df7eda13f",
+        "type": "tabs",
+        "dimension": 64.52296819787986,
+        "children": [
+          {
+            "id": "18c54f1e19bf1378",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -197,7 +206,7 @@
             }
           },
           {
-            "id": "cef5e8645832a0c1",
+            "id": "0da4fe986980664b",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -205,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,67 +223,67 @@
   "left-ribbon": {
     "hiddenItems": {
       "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
-      "marp-slides:Show Slide Preview": false,
+      "homepage:Open homepage": false,
+      "cmdr:Templater: Create new note from template": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "univer:Univer": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "cmdr:Templater: Create new note from template": false,
-      "cmdr:Git: Commit all changes": false,
-      "cmdr:Git: Pull": false,
+      "graph:查看关系图谱": false,
+      "univer:Univer": false,
+      "marp-slides:Show Slide Preview": false,
       "cmdr:Git: Push": false,
-      "homepage:Open homepage": false
+      "cmdr:Git: Commit all changes": false,
+      "cmdr:Git: Pull": false
     }
   },
-  "active": "4e41339ced6eacf0",
+  "active": "c26464b984b55cdc",
   "lastOpenFiles": [
-    "Inbox/Linear Elasticity.md",
-    "Inbox/Hellinger-Reissner nearly-incompressible problem.md",
-    "Inbox/压力不稳定问题.md",
+    "Inbox/Hamiltonian formulation.md",
+    "Inbox/Error estimator for mixed formulation.md",
     "Home.md",
+    "Inbox/Projection in Hilbert space.md",
+    "Inbox/Subgrid scale model.md",
+    "Inbox/Error estimator for Galerkin method.md",
+    "Templates/Report.md",
+    "Templates/Untitled.md",
+    "Inbox/Untitled.md",
+    "Inbox/Cantilever Beam.md",
+    "Inbox/Linear Elasticity.md",
+    "Inbox/Plane with axial traction.md",
+    "Inbox/Hellinger-Reissner nearly-incompressible problem.md",
+    "Inbox/Curved beam.md",
+    "Inbox/Hellinger-Reissner (HR) Principle.md",
+    "Inbox/∞ Hellinger-Reissner nearly-incompressible problem.md",
+    "Inbox/Hyperelasticity.md",
     "Inbox/Attachments/Plane with axial traction 2024-05-22 16.13.55.excalidraw.md",
     "Inbox/Attachments",
-    "Inbox/Plane with axial traction.md",
+    "Tasks/Inbox.md",
+    "Inbox/Kirchhoff-Love Plate.md",
+    "Inbox/压力不稳定问题.md",
     "Attachments/test_instability_b.png",
+    "Inbox/Attachments/test_instability_b.png",
     "Attachments/test_instability.png",
-    "Attachments/压力不稳定问题 2024-05-20 14.43.28.excalidraw.md",
+    "Inbox/Attachments/test_instability.png",
+    "Inbox/Attachments/patchtest_bubble_20.png.2024_05_21_17_04_43.0.svg",
+    "Inbox/Workspace管理文档.md",
     "Inbox/Attachments/semi_implicit_Euler.png",
     "Inbox/Attachments/semi_implicit_Euler 1.png",
     "Inbox/Attachments/non-uniform_20.png",
     "Inbox/Attachments/non-uniform_10.png",
     "Inbox/Attachments/hmd_2d_n20_error.png",
-    "Inbox/Attachments/hmd_2d_n20_error 1.png",
-    "Inbox/Attachments/hmd_2d_n20.png",
-    "Inbox/Attachments/hmd_2d_n10_error.png",
-    "Inbox/Hamiltonian formulation.md",
-    "Group/徐杨涛.md",
-    "Group/王崇志.md",
-    "Inbox/常用软件配置.md",
-    "Inbox/Mixed approximation for Hamilton formulation.md",
+    "Attachments/压力不稳定问题 2024-05-20 14.43.28.excalidraw.md",
+    "Inbox/搜索技能.md",
+    "Inbox/Attachments/压力不稳定问题 2024-05-20 14.43.28.excalidraw.md",
+    "Templates/Test.md",
     "References",
+    "未命名文件夹",
     "Attachments/themes/hqu.css",
-    "Inbox/AwesomeMarp_red.html",
-    "Inbox/AwesomeMarp_red.pdf",
     "Attachments/themes/am_red.scss",
-    "Attachments/themes/am_template.scss",
-    "Inbox/AwesomeMarp_red.md",
+    "Attachments/themes/am_red.css",
+    "Inbox/AwesomeMarp_red.pdf",
     "Inbox/Marp教程.html",
-    "Inbox/Space-time finite element methods for elastodynamics Formulations and error estimates Untitled.md",
-    "Templates/Paper.md",
-    "Inbox/Untitled.md",
-    "Inbox/MKL and Pardiso config.md",
-    "Inbox/1D Plasticity.md",
-    "Inbox/Initial value problem.md",
-    "Inbox/Bar and beam.md",
-    "Inbox/Reproducing kernel approximation.md",
-    "Inbox/Cantilever Beam.md",
-    "Inbox/Shell formulation.md",
-    "Inbox/1D phase field modeling fracture.md",
-    "Inbox/Variational principle in mathematical sense.md",
-    "Inbox/Crouzeix-Raviart triangular element.md",
-    "Attachments/themes/olive.css",
-    "Attachments/themes/minimal-turquoise.css"
+    "Inbox/AwesomeMarp_red.html",
+    "Attachments/themes/am_template.scss"
   ]
 }
